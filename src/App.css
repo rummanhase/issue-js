@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  padding: 5rem;
+  background-color: whitesmoke;
+}
+button{
+  margin: 0.5rem;
 }
 
 .App-logo {
