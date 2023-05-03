@@ -1,7 +1,10 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
   padding: 5rem;
   background-color: whitesmoke;
+}
+.btn{
+  max-width: fit-content;
 }
 button{
   margin: 0.5rem;
